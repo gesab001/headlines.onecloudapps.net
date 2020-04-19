@@ -3,9 +3,11 @@
 <body>
 
 
-<select name="news" onchange="changeNews(this.value)">
+<select id="choice" name="news" onchange="changeNews(this.value)">
 <option selected value="nzherald">NZ Herald</option>
 <option value="smh">Sydney Morning Herald</option>
+<option value="cnn">CNN</option>
+<option value="fox">Fox News</option>
 </select>
 
 <div id="demo"></div>
@@ -13,7 +15,7 @@
 <script>
 
 var xhttp = new XMLHttpRequest();
-var news = "smh";
+var news = document.getElementById("choice").value;
 changeNews(news);
 
 function changeNews(news){

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.foxnews.com/~d/styles/itemcontent.css"?><rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+                    <title>FOX News</title>
+    <link>http://www.foxnews.com/</link>
+    <description><![CDATA[FOXNews.com - Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports.]]></description>
+        <image>
+    	<url>http://tools.foxnews.com/sites/tools.foxnews.com/files/images/fox-news-logo.png</url>
+    	<title>FOX News</title>
+    	<link>http://www.foxnews.com/</link>
+    </image>
+            <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/nancy-pelosi-chris-wallace-small-business-relief-coronavirus-fox-news-sunday</guid>
+      <link>https://www.foxnews.com/media/nancy-pelosi-chris-wallace-small-business-relief-coronavirus-fox-news-sunday</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88bf125c-ddef-4d1d-ad96-4453cd2177dd/3eb4a87a-36c8-4730-8aea-99ceb90b7d94/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">ab2a9123-79ca-56ad-8c4f-85af58ac4858</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/media</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/fox-news-sunday</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/nancy-pelosi</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Nancy Pelosi says agreement on small business relief 'will be soon'</title>
+      <description>House Speaker Nancy Pelosi, in a interview set to air on "Fox News Sunday," said she believes Congress will "come to an agreement" on the $250 billion request to replenish the coronavirus pandemic small-business loan program.</description>
+                  <dc:creator>Victor Garcia</dc:creator>
+                         <pubDate>Sun, 19 Apr 2020 11:00:58 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Victor Garcia</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/david-katz-coronavirus-vaccine-herd-immunity</guid>
+      <link>https://www.foxnews.com/media/david-katz-coronavirus-vaccine-herd-immunity</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/694940094001_6150391802001_6150391167001-vs.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/694940094001_6150391802001_6150391167001-vs.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/694940094001_6150391802001_6150391167001-vs.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">a19eee0a-532d-5430-a540-3ecb31d39f1a</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/healthy-living/alternative-medicine</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/life-liberty-levin</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/connecticut</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Dr. David Katz: Coronavirus vaccine or herd immunity are only ways life can fully return to normal</title>
+      <description>Dr. David Katz, the founding director of the Yale-Griffin Prevention Research Center in Connecticut, has warned that while social distancing is helping to mitigate the spread of the coronavirus, it is also preventing the development of the "herd immunity" needed by the public to resume their normal lives before a vaccine is developed.</description>
+                  <dc:creator>Charles Creitz</dc:creator>
+                         <pubDate>Sun, 19 Apr 2020 11:00:24 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Charles Creitz</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/opinion/rep-tim-burchett-democrats-should-put-small-businesses-and-their-employees-ahead-of-political-agendas</guid>
+      <link>https://www.foxnews.com/opinion/rep-tim-burchett-democrats-should-put-small-businesses-and-their-employees-ahead-of-political-agendas</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/125296c4-f82d-4c9b-b8da-dfa1b070ca6e/075b9166-e9de-4395-a7c7-62c931868a54/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">714187a5-4b62-57b6-b045-668833427fa9</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/opinion</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/economy</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/opinion</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Rep. Tim Burchett: Democrats should put small businesses and their employees ahead of political agendas</title>
+      <description>Democrats are playing politics with funding from the Paycheck Protection Program.</description>
+                  <dc:creator>Tim Burchett</dc:creator>
+                         <pubDate>Sun, 19 Apr 2020 11:00:05 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Tim Burchett</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/michael-cohen-writing-tell-all-book-on-trump-to-be-released-before-election-report</guid>
+      <link>https://www.foxnews.com/media/michael-cohen-writing-tell-all-book-on-trump-to-be-released-before-election-report</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/AP20108100510273.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20108100510273.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20108100510273.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">9bd7cec0-cdb1-5295-bed3-40164a64c906</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/genres/books</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Michael Cohen writing tell-all book on Trump to be released before election: report</title>
+      <description>Michael Cohen, a former lawyer for President Trump, has reportedly been working on a tell-all book scheduled to be released before November's presidential election.</description>
+                  <dc:creator>Brie Stimson</dc:creator>
+                         <pubDate>Sun, 19 Apr 2020 10:34:39 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Brie Stimson</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/opinion/newt-gingrich-coronavirus-crisis-makes-some-leaders-believe-they-have-god-like-decision-making-capacity</guid>
+      <link>https://www.foxnews.com/opinion/newt-gingrich-coronavirus-crisis-makes-some-leaders-believe-they-have-god-like-decision-making-capacity</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b455a454-92f5-4405-9c00-c1c8771e2dc8/54042b9b-7ccb-497a-a481-66ae54b8ceb0/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">27b3cbd9-ecd3-55c9-a77d-0c001c97317a</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/opinion</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/gretchen-whitmer</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/opinion</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Newt Gingrich: Coronavirus crisis makes some leaders believe they have god-like decision-making capacity</title>
+      <description>One of the side effects of fighting the coronavirus pandemic has been the effort of some politicians to take power and run amok.</description>
+                  <dc:creator>Newt Gingrich</dc:creator>
+                         <pubDate>Sun, 19 Apr 2020 10:00:25 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Newt Gingrich</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/rolling-stones-drummer-charlie-watts-plays-air-drums-during-coronavirus-relief-gig</guid>
+      <link>https://www.foxnews.com/entertainment/rolling-stones-drummer-charlie-watts-plays-air-drums-during-coronavirus-relief-gig</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/06/ronnie-wood-mick-jagger-keith-richards-rolling-stones.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/ronnie-wood-mick-jagger-keith-richards-rolling-stones.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/ronnie-wood-mick-jagger-keith-richards-rolling-stones.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">bedab921-5d28-544b-9d7b-867e48a344c3</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/genres/rock</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/music</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/fundraising</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Rolling Stones drummer Charlie Watts plays ‘air drums’ during coronavirus-relief gig</title>
+      <description>Rolling Stones drummer Charlie Watts didn’t let the lack of a drum kit stop him from joining his bandmates in a live performance from their respective homes on Saturday.</description>
+                  <dc:creator>Dom Calicchio</dc:creator>
+                         <pubDate>Sun, 19 Apr 2020 09:41:44 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Dom Calicchio</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/opinion/andy-puzder-trump-coronavirus-guidelines-will-get-us-back-to-normal-and-safeguard-public-health-victories</guid>
+      <link>https://www.foxnews.com/opinion/andy-puzder-trump-coronavirus-guidelines-will-get-us-back-to-normal-and-safeguard-public-health-victories</link>
+                  <media:group>
+        <media:content url="http://media.foxbusiness.com/BrightCove/854081161001/202004/410/854081161001_6150273111001_6150273210001-vs.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com/media.foxbusiness.com/BrightCove/854081161001/202004/410/60/60/854081161001_6150273111001_6150273210001-vs.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com/media.foxbusiness.com/BrightCove/854081161001/202004/410/60/60/854081161001_6150273111001_6150273210001-vs.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">81f9ee5b-6177-5fe9-a40e-7482f1c81aaa</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/opinion</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/economy</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/opinion</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Andy Puzder: Trump coronavirus guidelines will get us back to normal and safeguard public health victories</title>
+      <description>It’s time to start getting things back to normal after weeks of unprecedented national sacrifice to stop the coronavirus from spreading.</description>
+                  <dc:creator>Andy Puzder</dc:creator>
+                         <pubDate>Sun, 19 Apr 2020 09:00:36 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Andy Puzder</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/lifestyle/people-buying-plants-quarantine</guid>
+      <link>https://www.foxnews.com/lifestyle/people-buying-plants-quarantine</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/01/PlantMillennialIstock.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/PlantMillennialIstock.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/PlantMillennialIstock.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">5911e557-994d-5a82-8caf-36428f8504b7</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/lifestyle</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/lifestyle</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>People buying more plants, garden tools while in quarantine: 'We've seen a tremendous spike'</title>
+      <description>New Yorkers are going green while in quarantine.</description>
+                  <dc:creator>April Hardwick</dc:creator>
+                         <pubDate>Sun, 19 Apr 2020 09:00:24 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">New York Post</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">April Hardwick</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/food-drink/no-yeast-substitute-recipes-bread-make-without</guid>
+      <link>https://www.foxnews.com/food-drink/no-yeast-substitute-recipes-bread-make-without</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/YeastBreadHandsMr.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/YeastBreadHandsMr.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/YeastBreadHandsMr.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">17ae973e-e322-5d37-9410-68feb2fbfb3c</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/food-drink/food/cooking-basics</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/food-drink</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Out of yeast? You can still make breads without this important ingredient</title>
+      <description>There's no great subsitute for yeast, but there are plenty of great breads you can make without it.</description>
+                  <dc:creator>Michael Bartiromo</dc:creator>
+                         <pubDate>Sun, 19 Apr 2020 09:00:04 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Michael Bartiromo</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/tech/zoom-bombers-coronavirus-hype-car-insurance-refunds-and-more-tech-qa</guid>
+      <link>https://www.foxnews.com/tech/zoom-bombers-coronavirus-hype-car-insurance-refunds-and-more-tech-qa</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/3dc16fbc-ZoomCoronavirusGetty20.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/3dc16fbc-ZoomCoronavirusGetty20.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/3dc16fbc-ZoomCoronavirusGetty20.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">336f4064-90c9-518c-a098-aa6fd5385b1f</category>
+                  <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/tech</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Zoom bombers, coronavirus hype, car insurance refunds and more: Tech Q&amp;A</title>
+      <description>Each week, I receive tons of questions from my listeners about tech concerns, new products, and all things digital.</description>
+                  <dc:creator>Kim Komando</dc:creator>
+                         <pubDate>Sun, 19 Apr 2020 08:00:51 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">The Kim Komando Show</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Kim Komando</category>
+                            </item>
+      </channel>
+</rss>
