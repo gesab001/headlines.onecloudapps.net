@@ -7,7 +7,12 @@
 <script>
 var xhttp = new XMLHttpRequest();
 
-xhttp.open("GET", "../../cgi-bin/headlines.py", false);
+xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+
+    }
+};
+xhttp.open("GET", "../../cgi-bin/headlines2.py", false);
 xhttp.send();
 
 xhttp.onreadystatechange = function() {
@@ -27,6 +32,8 @@ function myFunction(xml) {
     }     
     document.getElementById("demo").innerHTML = text;
 }
+
+
 </script>
 
 </body>

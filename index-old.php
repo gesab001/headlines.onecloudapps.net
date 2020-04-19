@@ -1,6 +1,6 @@
 <?php
 
-$url = "https://www.foxnews.com";
+$url = "https://rss.nzherald.co.nz/rss/xml/nzhtsrsscid_000000698.xml";
 
 $handle = curl_init();
 
@@ -8,14 +8,9 @@ curl_setopt($handle, CURLOPT_URL, $url);
 
 $data = curl_exec($handle);
 
-//echo $data;
+$xml=simplexml_load_string($url) or die("Error: Cannot create object");
+print_r($xml);
 
-$url = "https://edition.cnn.com";
-
-$handle = curl_init();
-
-curl_setopt($handle, CURLOPT_URL, $url);
-
-$data1 = curl_exec($handle);
-
-echo $data1;
+$fp = fopen('lidn.xml', 'w');
+fwrite($fp, $data);
+fclose($fp);
