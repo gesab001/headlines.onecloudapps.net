@@ -1,6 +1,8 @@
 
 <!DOCTYPE html>
 <html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <body>
 
 
@@ -63,7 +65,7 @@ function updateDate(){
          document.getElementById("dateUpdate").innerHTML = "error";
     }
   };
-  xhttp.open("GET", "http://127.0.0.1/headlines.onecloudapps.net/updateDate.php?news="+news, true);
+  xhttp.open("GET", "updateDate.php?news="+news, true);
   xhttp.send();
 }
 

@@ -10,6 +10,29 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/speaker-pelosi-rips-trump-as-weak-leader-tells-fox-news-sunday-hes-failed-on-coronavirus-response</guid>
+      <link>https://www.foxnews.com/politics/speaker-pelosi-rips-trump-as-weak-leader-tells-fox-news-sunday-hes-failed-on-coronavirus-response</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88bf125c-ddef-4d1d-ad96-4453cd2177dd/3eb4a87a-36c8-4730-8aea-99ceb90b7d94/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">01f43571-4e62-5ec9-bc89-bce30f6d9c04</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/person/nancy-pelosi</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/fox-news-sunday</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Speaker Pelosi rips Trump as ‘weak leader,’ tells ‘Fox News Sunday’ he’s failed on coronavirus response</title>
+      <description>House Speaker Nancy Pelosi gave President Trump an ‘F’ for what she called “weak” leadership during the coronavirus pandemic, and promised that despite recent snags, Congress will ‘soon’ reach an agreement for adding $250 billion to replenish a program that provides forgivable loans to small businesses.</description>
+                  <dc:creator>Ronn Blitzer</dc:creator>
+                         <pubDate>Sun, 19 Apr 2020 12:58:32 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ronn Blitzer</category>
+                            </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/us/tornado-threat-south-severe-weather-forecast-wind-flash-flooding-deadly-outbreak</guid>
       <link>https://www.foxnews.com/us/tornado-threat-south-severe-weather-forecast-wind-flash-flooding-deadly-outbreak</link>
                   <media:group>
@@ -224,26 +247,6 @@
                          <pubDate>Sun, 19 Apr 2020 09:00:24 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">New York Post</category>
                                     <category domain="foxnews.com/metadata/dc.creator">April Hardwick</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/food-drink/no-yeast-substitute-recipes-bread-make-without</guid>
-      <link>https://www.foxnews.com/food-drink/no-yeast-substitute-recipes-bread-make-without</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/YeastBreadHandsMr.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/YeastBreadHandsMr.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/YeastBreadHandsMr.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">17ae973e-e322-5d37-9410-68feb2fbfb3c</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/food-drink/food/cooking-basics</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/food-drink</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Out of yeast? You can still make breads without this important ingredient</title>
-      <description>There's no great subsitute for yeast, but there are plenty of great breads you can make without it.</description>
-                  <dc:creator>Michael Bartiromo</dc:creator>
-                         <pubDate>Sun, 19 Apr 2020 09:00:04 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Michael Bartiromo</category>
                             </item>
       </channel>
 </rss>
