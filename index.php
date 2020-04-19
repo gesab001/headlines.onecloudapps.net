@@ -2,26 +2,41 @@
 <html>
 <body>
 
+
+<select name="news" onchange="changeNews(this.value)">
+<option selected value="nzherald">NZ Herald</option>
+<option value="smh">Sydney Morning Herald</option>
+</select>
+
 <div id="demo"></div>
 
 <script>
+
 var xhttp = new XMLHttpRequest();
+var news = "smh";
+changeNews(news);
 
-xhttp.onreadystatechange = function() {
+function changeNews(news){
+ news = news;
+ xhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
-
+       loadNews(news);
     }
-};
-xhttp.open("GET", "../../cgi-bin/headlines2.py", false);
-xhttp.send();
+ };
+ xhttp.open("GET", "../../cgi-bin/headlines2.py?news="+news, true);
+ xhttp.send();
+}
 
-xhttp.onreadystatechange = function() {
+function loadNews(news){
+
+ xhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
     myFunction(this);
     }
-};
-xhttp.open("GET", "nzherald.xml", false);
-xhttp.send();
+ };
+ xhttp.open("GET", news+".xml", true);
+ xhttp.send();
+}
 
 function myFunction(xml) {
     var xmlDoc = xml.responseXML;
