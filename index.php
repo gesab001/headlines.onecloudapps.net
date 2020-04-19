@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <body>
@@ -9,7 +10,7 @@
 <option value="cnn">CNN</option>
 <option value="fox">Fox News</option>
 </select>
-
+<p id="dateUpdate"></p>
 <div id="demo"></div>
 
 <script>
@@ -48,6 +49,22 @@ function myFunction(xml) {
          text += "<p>"+titles[x].childNodes[0].nodeValue+"</p>";
     }     
     document.getElementById("demo").innerHTML = text;
+    updateDate();
+}
+
+function updateDate(){
+  var news = document.getElementById("choice").value + ".xml";
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+           var text = this.responseText;
+           document.getElementById("dateUpdate").innerHTML = text;
+    }
+    else{
+         document.getElementById("dateUpdate").innerHTML = "error";
+    }
+  };
+  xhttp.open("GET", "http://127.0.0.1/headlines.onecloudapps.net/updateDate.php?news="+news, true);
+  xhttp.send();
 }
 
 

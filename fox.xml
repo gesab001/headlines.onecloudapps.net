@@ -10,6 +10,32 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/tornado-threat-south-severe-weather-forecast-wind-flash-flooding-deadly-outbreak</guid>
+      <link>https://www.foxnews.com/us/tornado-threat-south-severe-weather-forecast-wind-flash-flooding-deadly-outbreak</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/SevereWeatherMapSunday_5.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/SevereWeatherMapSunday_5.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/SevereWeatherMapSunday_5.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">8397dadc-5a2d-5c07-8544-a8b5ddfd8b15</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/weather</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/disasters</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/disasters/disaster-response</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/disasters/flash-flood</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/disasters/tornado</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/disasters/warnings</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>South braces for second round of tornadoes, high winds and flooding with millions at risk</title>
+      <description>Tens of millions of Americans are under the threat for severe weather in the South on Sunday exactly one week after a tornado outbreak killed at least 36 people across the region. </description>
+                  <dc:creator>Travis Fedschun</dc:creator>
+                         <pubDate>Sun, 19 Apr 2020 12:38:28 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Travis Fedschun</category>
+                            </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/media/nancy-pelosi-chris-wallace-small-business-relief-coronavirus-fox-news-sunday</guid>
       <link>https://www.foxnews.com/media/nancy-pelosi-chris-wallace-small-business-relief-coronavirus-fox-news-sunday</link>
                   <media:group>
@@ -218,25 +244,6 @@
                          <pubDate>Sun, 19 Apr 2020 09:00:04 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Michael Bartiromo</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/tech/zoom-bombers-coronavirus-hype-car-insurance-refunds-and-more-tech-qa</guid>
-      <link>https://www.foxnews.com/tech/zoom-bombers-coronavirus-hype-car-insurance-refunds-and-more-tech-qa</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/3dc16fbc-ZoomCoronavirusGetty20.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/3dc16fbc-ZoomCoronavirusGetty20.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/3dc16fbc-ZoomCoronavirusGetty20.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">336f4064-90c9-518c-a098-aa6fd5385b1f</category>
-                  <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/tech</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Zoom bombers, coronavirus hype, car insurance refunds and more: Tech Q&amp;A</title>
-      <description>Each week, I receive tons of questions from my listeners about tech concerns, new products, and all things digital.</description>
-                  <dc:creator>Kim Komando</dc:creator>
-                         <pubDate>Sun, 19 Apr 2020 08:00:51 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">The Kim Komando Show</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Kim Komando</category>
                             </item>
       </channel>
 </rss>
