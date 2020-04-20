@@ -4,22 +4,62 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <body>
+<form action="../cgi-bin/addnews.py" method="post">
+<input type="text" name="keyword" placeholder="shortname"/>
 
+<input type="text" name="title" placeholder="title"/>
 
-<select id="choice" name="news" onchange="changeNews(this.value)">
-<option selected value="nzherald">NZ Herald</option>
-<option value="smh">Sydney Morning Herald</option>
-<option value="cnn">CNN</option>
-<option value="fox">Fox News</option>
-</select>
+<input type="text" name="url" placeholder="xml address"/>
+
+<input type="submit" value="add"/>
+<br>
+</form>
+<select id="selection" name="news" onchange="changeNews(this.value)"></select>
+
 <p id="dateUpdate"></p>
 <div id="demo"></div>
 
 <script>
 
 var xhttp = new XMLHttpRequest();
-var news = document.getElementById("choice").value;
-changeNews(news);
+var news;
+//changeNews(news);
+loadSelectionTitles();
+
+
+function loadSelectionTitles(){
+
+ xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+       var myArr = JSON.parse(this.responseText);
+       loadSelection(myArr);
+    }
+ };
+ xhttp.open("GET", "newstitles.json", true);
+ xhttp.send();
+}
+
+
+function loadSelection(myArrTitles){
+
+ xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+       var myArr = JSON.parse(this.responseText);
+       for (var x in myArr){
+		  var title = myArrTitles[x];
+		 if(x=="nzherald"){
+			document.getElementById("selection").innerHTML += "<option selected value='"+x+"'>"+title+"</option>";
+         }else{			 
+			document.getElementById("selection").innerHTML += "<option value='"+x+"'>"+title+"</option>";
+		 }
+       }
+	   var news = document.getElementById("selection").value;
+       changeNews(news);
+    }
+ };
+ xhttp.open("GET", "news.json", true);
+ xhttp.send();
+}
 
 function changeNews(news){
  news = news;
@@ -55,7 +95,7 @@ function myFunction(xml) {
 }
 
 function updateDate(){
-  var news = document.getElementById("choice").value + ".xml";
+  var news = document.getElementById("selection").value + ".xml";
   xhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
            var text = this.responseText;
