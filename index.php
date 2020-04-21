@@ -5,13 +5,17 @@
 
 <body>
 <form action="../cgi-bin/addnews.py" method="post">
-<input type="text" name="keyword" placeholder="shortname"/>
+<input type="text" name="keyword" placeholder="keyword"/>
 
 <input type="text" name="title" placeholder="title"/>
 
 <input type="text" name="url" placeholder="xml address"/>
 
 <input type="submit" value="add"/>
+<br>
+<form action="../cgi-bin/deletenews.py" method="post">
+<input type="text" name="keyword" placeholder="keyword"/>
+<input type="submit" value="delete"/>
 <br>
 </form>
 <select id="selection" name="news" onchange="changeNews(this.value)"></select>
@@ -76,19 +80,21 @@ function loadNews(news){
 
  xhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
-    myFunction(this);
+    displayFeeds(this);
     }
  };
  xhttp.open("GET", news+".xml", true);
  xhttp.send();
 }
 
-function myFunction(xml) {
+function displayFeeds(xml) {
     var xmlDoc = xml.responseXML;
     var titles = xmlDoc.getElementsByTagName("title");
     var text ="";
-    for (var x=2; x<titles.length;x++){
-         text += "<p>"+titles[x].childNodes[0].nodeValue+"</p>";
+	var title = "";
+    for (var x=0; x<titles.length;x++){
+		 if (titles[x].childNodes[0].nodeValue!=title)
+           text += "<p>"+titles[x].childNodes[0].nodeValue+"</p>";
     }     
     document.getElementById("demo").innerHTML = text;
     updateDate();
